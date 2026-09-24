@@ -1,0 +1,75 @@
+        h1 {
+            color:rgba(7, 28, 158, 0.622);
+            text-align:center;
+        }
+
+        p {
+            color:rgb(11, 11, 11);
+            font: size 20px;
+        }
+
+        button{
+            background-color:black;
+            color:rgb(237, 239, 241);
+            padding:10px;
+        }
+
+        img {
+            width: 200px;
+            border: 5px solid black;
+            border-radius:10px;
+        }
+
+        table {
+            border-collapse:collapse;
+            width:60%;
+        }
+
+        th {
+            background-color:rgba(20, 40, 220, 0.579);
+            color:rgb(232, 247, 247);
+            padding:10px;
+        }
+
+        td {
+            border: 1px solid black;
+            padding:10px;
+            text-align:center;
+        }
+
+        button {
+            background-color:black;
+            color:white;
+            padding:12px 20px;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+
+        p{
+            color:black;
+            font-size:20px;
+            line-height: 1.5;
+        }
+     
+        a{
+            color:rgb(20, 20, 23);
+            text-decoration:none;
+            font-size:18px;
+        }
+
+        hr {
+            border:2px solid rgb(0, 0, 6);
+        }
+
+        mark {
+            background-color:rgb(237, 187, 93);
+        }
+
+        ul {
+            color:black;
+            font-size:18px;
+        }
+
+        li {
+            margin:8px;
+        }
